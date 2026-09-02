@@ -4,7 +4,7 @@
 
 # LGG-Brain-MRI-Tumor-Segmentation-using-U-Net
 
-A PyTorch-based binary brain tumor segmentation project using the LGG MRI segmentation dataset. The project implements a complete medical image segmentation pipeline, including image-mask verification, patient-level splitting, preprocessing, U-Net training, quantitative evaluation and quantitative analysis.
+A PyTorch-based binary brain tumor segmentation project using the LGG MRI segmentation dataset. The project implements a complete medical image segmentation pipeline, including image-mask verification, patient-level splitting, preprocessing, U-Net training, quantitative evaluation and qualitative analysis.
 
 ## Overview
 
