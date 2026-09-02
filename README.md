@@ -262,6 +262,8 @@ LGG-Brain-MRI-Tumor-Segmentation-using-U-Net/
 - Matplotlib
 - scikit-learn
 - Pillow
+  
+All dependencies are provided in the `requirements.txt` file.
 
 ## References
 
